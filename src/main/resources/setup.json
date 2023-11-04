@@ -1,0 +1,13 @@
+{
+  "projectName": "Your Project Name",
+  "gameDirectory": "C:/Program Files (x86)/Steam/steamapps/common/Game",
+  "gameModDirectory": "mods",
+  "buildFile": "build.json",
+  "mcVersion": "1.12.2",
+  "mcVersionFileName": "mcversion.json",
+  "package": {
+    "groupId": "com.example",
+    "artifactId": "project-name",
+    "version": "1.0.0"
+  }
+}
