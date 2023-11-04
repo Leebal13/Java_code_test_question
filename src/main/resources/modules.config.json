@@ -1,0 +1,10 @@
+{
+  "modules": {
+    "com.example.module": {
+      "path": "com/example/module",
+      "main": "MainModule",
+      "dependsOn": [],
+      "priority": 100
+    }
+  }
+}
